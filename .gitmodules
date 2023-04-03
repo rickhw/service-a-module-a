@@ -1,0 +1,3 @@
+[submodule "ref/module-b"]
+	path = ref/module-b
+	url = git@github.com:rickhw/service-a-module-b.git
